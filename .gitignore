@@ -1,2 +1,10 @@
 venv
 .env
+
+*env*
+
+*cache*
+
+*/migrations/[!'__init__.py']*
+
+*code*
